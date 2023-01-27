@@ -1,0 +1,24 @@
+praneeth44@Praneeths-MacBook-Pro 02 % make mapreduce
+python3 main.py
+
+mapper workers on work....
+
+mapper  0  failed, restarting mapper  0
+mapper  3  failed, restarting mapper  3
+mappers completion order :  ['1', '4', '2', '0', '3'] 
+
+reducer workers on work....
+
+reducers completion order :  ['3', '0', '1', '2', '4'] 
+
+inverted_index  k-v pairs stored!
+
+praneeth44@Praneeths-MacBook-Pro 02 % 
+
+
+
+
+
+
+
+

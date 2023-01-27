@@ -1,0 +1,24 @@
+praneeth44@Praneeths-MacBook-Pro 02 % make mapreduce
+python3 main.py
+
+mapper workers on work....
+
+mappers completion order :  ['0'] 
+
+reducer workers on work....
+
+reducers completion order :  ['0'] 
+
+word_count  k-v pairs stored!
+
+praneeth44@Praneeths-MacBook-Pro 02 % 
+
+
+
+
+
+
+
+
+
+
